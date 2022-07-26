@@ -1,3 +1,5 @@
+
+``` SQL
 CREATE USER kullanici_adi
 [WITH PASSWORD 'şifre bu kısıma' | VALID UNTIL ' TARİH']
 
@@ -23,3 +25,4 @@ GRANT ALL ON 'tablo ismi' TO oktay;
 
 -- yada belrili bir işlemi herekese açık yapabiliriz
 GRANT SELECT ON 'tablo ismi' TO PUBLİC;
+``` 
