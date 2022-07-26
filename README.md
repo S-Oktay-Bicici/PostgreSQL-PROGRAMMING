@@ -1,30 +1,39 @@
 # SQL Sorguları 
 
 ## 1- DDL - Data Definition Language ( Veri Tanımlama Dili )
-[[CREATE]] --> Veritabanında nesne oluşturmak için kullanılır.
-[[ALTER]] --> Mevcut bir nesenenin yapısını değiştirmek için kullanılır.
-[[DROP]] --> Bir nesneyi silmek için kullanılır.
+CREATE --> Veritabanında nesne oluşturmak için kullanılır.<br>
+ALTER --> Mevcut bir nesenenin yapısını değiştirmek için kullanılır.<br>
+DROP --> Bir nesneyi silmek için kullanılır.<br>
 	
 ## 2- DML - Data Manipulation Language ( Veri İşleme Dili )
-[[INSERT]] --> Veri ekleme amacıyla kullanılır
-[[UPDATE]] --> Veri güncelleme amacıyla kullanılır
-[[DELETE]] --> Veri silme amacıyla kullanılır
+INSERT --> Veri ekleme amacıyla kullanılır<br>
+UPDATE --> Veri güncelleme amacıyla kullanılır<br>
+DELETE --> Veri silme amacıyla kullanılır<br>
 
 ## 3- DQL - Data Query Language ( Veri Sorgu Dili )
-[[SELECT]]
-[[ORDER BY]]
-[[GROUP BY]]
+SELECT<br>
+ORDER BY<br>
+GROUP BY<br>
 	
 ## 4- DCL - Data Control Language ( Veri Kontrol Dili )
-[[GRANT]]
-[[REVOKE]]
+GRANT<br>
+REVOKE<br>
 	
 ## 5- TCC - Transactional Control Commands ( İşlemsel Kontrol Komutları )
-[[COMMIT]]
-[[ROLLBACK]]
+COMMIT<br>
+ROLLBACK<br>
 	
 	
-Örnek kodlar [[hr-sql-sorguları.sql]]
+Örnek kodlar
+* hr-sql-sorguları.sql
+* Adventureworks - OLTP database for a fictitious, multinational manufacturing company called Adventure Works Cycles
+* Chinook - digital media store
+* French Towns - all French towns and regions
+* ISO-3166 - All countries and subcountries in the world
+* Pagila - Movie rental database with actors, ratings, payments, etc.
+* Role Based Access Control - authentication solution
+* USDA - food database
+* World - Cities, Countries, and what language they speak
 
 
 > [!NOTE] 
